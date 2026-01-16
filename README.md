@@ -23,3 +23,7 @@ Real along with a confidence score. Low-confidence predictions are handled as in
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+
+## Demo Video
+https://drive.google.com/file/d/1M52Q0EmPj4R_qTxLYpdmEoFMXNhQaQhq/view?usp=sharing
