@@ -20,7 +20,7 @@ Real along with a confidence score. Low-confidence predictions are handled as in
 - `demo/` – Demo video link
 
 ## Demo Video
-https://drive.google.com/file/d/1M52Q0EmPj4R_qTxLYpdmEoFMXNhQaQhq/view?usp=sharing
+https://drive.google.com/file/d/1M52QOEmPj4R_qTxLVpdmEofMXYhQaQHq/view?usp=drive_link
 
 ## How to Run
 ```bash
